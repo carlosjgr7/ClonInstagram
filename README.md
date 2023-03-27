@@ -1,5 +1,5 @@
 # ClonInstagram
-clon del login de instagram hecho con jetpackcompose
+Clon del login de instagram hecho con jetpackcompose
 
 puedes ocultar/ver contraseña
 
